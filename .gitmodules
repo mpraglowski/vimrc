@@ -36,7 +36,7 @@
 	url = https://github.com/pangloss/vim-javascript
 [submodule "bundle/vim-json"]
 	path = bundle/vim-json
-	url = git@githvim-jsonub.com:elzr/vim-json.git
+	url = git@github.com:elzr/vim-json.git
 [submodule "bundle/vim-puppet"]
 	path = bundle/vim-puppet
 	url = https://github.com/rodjek/vim-puppet
