@@ -50,7 +50,7 @@ noremap <Right> <NOP>
 
 " javascript
 let g:javascript_fold = 0
-set nofoldenable
+au FileType javascript setlocal nofoldenable
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
