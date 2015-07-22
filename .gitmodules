@@ -133,3 +133,15 @@
 [submodule "bundle/vim-zenroom2"]
 	path = bundle/vim-zenroom2
 	url = git@github.com:amix/vim-zenroom2.git
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = git://github.com/altercation/solarized.git
+[submodule "bundle/syntastic-react"]
+	path = bundle/syntastic-react
+	url = git@github.com:jaxbot/syntastic-react.git
+[submodule "bundle/vim-nix"]
+	path = bundle/vim-nix
+	url = git@github.com:LnL7/vim-nix.git
+[submodule "bundle/vim-jsx"]
+	path = bundle/vim-jsx
+	url = git@github.com:mxw/vim-jsx.git
